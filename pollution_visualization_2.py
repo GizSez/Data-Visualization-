@@ -7,7 +7,7 @@ __author__ = "Gizem Gross"
 
 __copyright__ = "Copyright 2021, Zürich" 
 
-__credits__ = {"Gizem Gross", "Christian Fischer", "Rolf Böller"}        
+__credits__ = {"Gizem Gross"}        
 
 __license__ = "TOS" 
 
